@@ -106,14 +106,11 @@ Install this project with:
 
 To run the project, execute the following command:
 
-### Usage
-
-<!--
 Example command:
 
 ```sh
     cd math magicians
-    npm install -g live-server
+    npm start
 ```
 
 ### Run tests

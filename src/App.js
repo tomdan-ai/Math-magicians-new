@@ -1,7 +1,7 @@
 import './App.css';
 import Calculator from './components/calculator';
 
-function App() {
+function CalculatorApp() {
   return (
     <div>
       <Calculator />
@@ -9,4 +9,4 @@ function App() {
   );
 }
 
-export default App;
+export default CalculatorApp;

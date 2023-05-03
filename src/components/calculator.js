@@ -31,7 +31,7 @@ function Calculator() {
         <Button className="orange btn-style" label="+" />
       </div>
       <div className="column">
-        <Button className="white btn-style" id="zero" label="0" />
+        <Button className="zero btn-style" label="0" />
         <Button className="white btn-style" label="." />
         <Button className="orange btn-style" label="=" />
       </div>

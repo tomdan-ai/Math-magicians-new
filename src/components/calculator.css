@@ -19,7 +19,7 @@
 }
 
 .white {
-  color: #fff;
+  background-color: #fff;
 }
 
 .btn-style {
@@ -35,6 +35,7 @@
   width: 100%;
 }
 
-#zero {
+.zero {
   width: 50%;
+  background-color: #fff;
 }

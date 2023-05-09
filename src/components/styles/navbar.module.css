@@ -1,0 +1,47 @@
+.navbar {
+  display: flex;
+  gap: 20px;
+  background-color: #000080;
+  padding: 15px;
+  justify-content: flex-end;
+  margin-bottom: -21px;
+}
+
+.header {
+  color: #fff;
+  font-size: 45px;
+  margin-bottom: -60px;
+  margin-top: 0;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.home {
+  font-size: 25px;
+  color: #fff;
+}
+
+.quotes {
+  font-size: 25px;
+  color: #fff;
+}
+
+.calculator {
+  font-size: 25px;
+  color: #fff;
+}
+
+.home:hover {
+  color: #f5913f;
+}
+
+.quotes:hover {
+  color: #f5913f;
+}
+
+.calculator:hover {
+  color: #f5913f;
+}

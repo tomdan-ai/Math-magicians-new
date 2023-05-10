@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar Snapshot Navbar matches DOM snapshot 1`] = `
+<div>
+  <h1
+    className="header"
+  >
+    Math magicians
+  </h1>
+  <nav
+    className="navbar"
+  >
+    <a
+      className="home"
+      href="/"
+      onClick={[Function]}
+    >
+      Home
+    </a>
+    <a
+      className="quotes"
+      href="/Quotes"
+      onClick={[Function]}
+    >
+      Quotes
+    </a>
+    <a
+      className="calculator"
+      href="/Calculator"
+      onClick={[Function]}
+    >
+      Calculator
+    </a>
+  </nav>
+</div>
+`;

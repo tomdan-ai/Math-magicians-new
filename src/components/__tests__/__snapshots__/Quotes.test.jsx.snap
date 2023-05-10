@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Quotes snapshot shows Quotes snapshot 1`] = `
+<div
+  className="loaders"
+  data-itemid="load"
+>
+  Loading
+  <i
+    aria-hidden="true"
+    className="fa fa-spinner"
+  />
+</div>
+`;

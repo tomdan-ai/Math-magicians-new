@@ -21,7 +21,7 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -142,6 +142,11 @@ Github pages
 - Twitter: [@kingWebstar](https://twitter.com/tomudoh1)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/tom-udoh-a89046256/)
 
+👤 **Adams Bamfo**
+- GitHub: [Adams-Ghub](https://github.com/Adams-Ghub)
+- Twitter: [@bamfoaf](https://twitter.com/bamfoaf)
+- LinkedIn: [Adams Bamfo](https://www.linkedin.com/in/adams-bamfo-3aaa3011b/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,7 +164,7 @@ Github pages
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/tomdan-ai/issues/).
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

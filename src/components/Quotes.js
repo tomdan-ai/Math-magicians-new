@@ -26,7 +26,7 @@ function Quotes() {
 
   if (isLoading) {
     return (
-      <div className="loaders">
+      <div data-itemid="load" className="loaders">
         Loading
         <i className="fa fa-spinner" aria-hidden="true" />
       </div>
@@ -45,8 +45,8 @@ function Quotes() {
   return (
     <div>
       <h2 className="Quote-head">Quote:</h2>
-      <p className="Quote-body">{quote}</p>
-      <p className="Quote-author">
+      <p data-testid="quote" className="Quote-body">{quote}</p>
+      <p data-testid="author" className="Quote-author">
         -
         {author}
       </p>

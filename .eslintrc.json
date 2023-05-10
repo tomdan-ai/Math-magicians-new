@@ -19,6 +19,7 @@
       "react/react-in-jsx-scope": "off",
       "import/no-extraneous-dependencies": "off",
       "no-use-before-define": "off",
+      "jsx-a11y/no-redundant-roles":"off",
       "react/require-default-props": "off",
       "import/extensions": "off",
       "import/no-unresolved": "off",

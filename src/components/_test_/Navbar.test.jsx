@@ -1,5 +1,6 @@
 import { render, screen } from '@testing-library/react';
 import { BrowserRouter } from 'react-router-dom';
+import renderer from 'react-test-renderer';
 import Navebar from '../Navbar';
 
 describe('Navbar', () => {
@@ -13,5 +14,16 @@ describe('Navbar', () => {
     );
     const navElement = screen.getByRole('navigation');
     expect(navElement).toBeInTheDocument();
+  });
+});
+
+describe('Navbar Snapshot', () => {
+  test('Navbar matches DOM snapshot', () => {
+    const tree = renderer.create(
+      <BrowserRouter basename="/">
+        <Navebar />
+      </BrowserRouter>,
+    ).toJSON();
+    expect(tree).toMatchSnapshot();
   });
 });

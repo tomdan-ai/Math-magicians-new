@@ -79,7 +79,7 @@ function Calculator() {
   // render()
   return (
     <div className="Container">
-      <div className="Screen">{displayValue}</div>
+      <div data-testid="calculator-display" className="Screen">{displayValue}</div>
       <div className="column">
         <Button className="white btn-style" label="AC" onClick={() => handleInput('AC')} />
         <Button className="white btn-style" label="+/-" onClick={() => handleInput('+/-')} />
